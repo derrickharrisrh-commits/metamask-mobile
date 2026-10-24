@@ -424,7 +424,7 @@
     "@metamask/money-account-upgrade-controller": "^5.1.0",
     "@metamask/money-account-utils": "^2.1.0",
     "@metamask/multichain-account-service": "^14.1.0",
-    "@metamask/multichain-api-client": "^0.11.0",
+    "@metamask/multichain-api-client": "^0.12.0",
     "@metamask/multichain-api-middleware": "^4.0.1",
     "@metamask/multichain-network-controller": "^3.2.3",
     "@metamask/multichain-transactions-controller": "^7.1.2",
