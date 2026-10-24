@@ -22203,10 +22203,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/valid-url@npm:^1.0.4":
-  version: 1.0.4
-  resolution: "@types/valid-url@npm:1.0.4"
-  checksum: 10/49f32b4fb6090e9261c294cfb86c8b7aea2e96fd3906d6bc9fcff3c08179022dc61b386a8ac47803ec12887f21298ecd6209660b3aa579f0be9d163b7af3e74d
+"@types/valid-url@npm:^1.0.7":
+  version: 1.0.7
+  resolution: "@types/valid-url@npm:1.0.7"
+  checksum: 10/c596c4101cd6c4b280277027f1bfa2cf4eb643f1d893a714c8d4a6bc47e9f24dc012f9ba5a0984bd1df983c1914c3f0fa69af2df6a6e48e81999062c6e75fbfc
   languageName: node
   linkType: hard
 
@@ -39385,7 +39385,7 @@ __metadata:
     "@types/semver": "npm:^7"
     "@types/serve-handler": "npm:^6.1.4"
     "@types/url-parse": "npm:^1.4.8"
-    "@types/valid-url": "npm:^1.0.4"
+    "@types/valid-url": "npm:^1.0.7"
     "@types/ws": "npm:^8.18.1"
     "@typescript-eslint/eslint-plugin": "npm:^8.1.0"
     "@typescript-eslint/parser": "npm:^8.1.0"
